@@ -1,10 +1,10 @@
 # SITE CONFIGURATION
-title: Escape Room Brainhack Donostia # your site title
-author: Happy people # You :P
+title: Brainhack Donostia # your site title
+author: Brainhack Donostia # You :P
 description: > # Meta description of Homepage
   Website of the Brainhack Donostia organization.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://Escape-room-BHD.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://brainhack-donostia.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # THEME SETTINGS
 navigation: # Navigation links
@@ -17,6 +17,8 @@ navigation: # Navigation links
   - { name: "About", link: "/about" }
   - { name: "Contact", link: "/contact" }
 
+# tagline: >
+#   Online edition: November 9th - 13th
 
 hero_img: posts/bhd2021_banner_dates.svg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
