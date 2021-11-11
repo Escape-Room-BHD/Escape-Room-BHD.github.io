@@ -25,6 +25,7 @@ p{
   transition-duration: 0.4s;
   width: 250px;
   text-align: center;
+  display:inline-block;
  
 }
 
