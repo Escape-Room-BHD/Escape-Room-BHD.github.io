@@ -23,6 +23,33 @@
         </p>
     </body>
 
-    <iframe src="https://eduescaperoom.com/enigma/4IkpWn0rM5zN" width="690px" height="360px"></iframe>
+   <?php
+ if(($_POST)){
+# Aqui definimos el usuario y password
+# Puedes cambiar el usuario y clave x lo q sea
+$password = '513212';
+# Aqui compruebo q los datos(usuario y contraseña) ingresados sean igual a lo que eh definido
+if(trim($_POST['pass'])==$password) {
+header('Location: https://escape-room-bhd.github.io/Nonograms');
+ }else{
+header('Location: Error.html');
+ }
+   }
+
+?>
+<html>
+<head>
+<title>Acceso</title>
+</head>
+<body>
+<form action="" method="post">
+<table border="1" cellpadding="5" cellspacing="0" align="center">
+<tr><td colspan="2" align="center">ACCESO</td></tr>
+<tr><td>Password:</td> <td><input type="password" name="pass" /></td></tr>
+<tr><td align="center" colspan="2"><input type="submit" name="submit" value="Submit" /></td></tr>
+</table>
+</form>
+</body>
+</html>
  
 </html>
