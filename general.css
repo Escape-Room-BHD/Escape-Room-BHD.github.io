@@ -13,7 +13,6 @@ p{
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
   color: white;
   font-size: 20px;
-  margin: 0 auto;
   text-align: center;
 
 }
@@ -26,8 +25,11 @@ p{
   transition-duration: 0.4s;
   width: 250px;
   text-align: center;
-  margin: auto;
-
+ 
+}
+.button2{
+  position:absolute;
+  top:50%;
 }
 
 /*.button1:hover{
