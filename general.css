@@ -16,7 +16,7 @@ p{
   text-align: center;
 
 }
-.button{
+a.button{
   background-color: #4CAF50;
   color: white;
   font-size: 24px;
@@ -28,7 +28,7 @@ p{
   display: inline-block;
 
 }
-.button:hover{
+a.button:hover{
   background-color: white;
   border-color: #4CAF50;
   color: black;
