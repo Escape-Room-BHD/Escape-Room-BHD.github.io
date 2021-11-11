@@ -25,12 +25,13 @@ p{
   transition-duration: 0.4s;
   width: 250px;
   text-align: center;
-  display: inline-block;
+  display: inline;
+ 
 
 }
-/*
+
 .button1:hover{
   background-color: white;
   border-color: #4CAF50;
   color: black;
-}*/
+}
