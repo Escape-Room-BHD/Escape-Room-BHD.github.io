@@ -7,16 +7,16 @@ h1 {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
   color: rgb(83, 119, 238);
   text-align: center;
-  font-size:xx-large;
+  font-size: 60px;;
 }
 p{
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
   color: white;
-  font-size: 24px;
+  font-size: 20px;
   text-align: center;
 
 }
-a.button1{
+.button1{
   background-color: #4CAF50;
   color: white;
   font-size: 24px;
@@ -28,8 +28,9 @@ a.button1{
   display: inline-block;
 
 }
-a.button1:hover{
+/*
+.button1:hover{
   background-color: white;
   border-color: #4CAF50;
   color: black;
-}
+}*/
