@@ -15,6 +15,13 @@ p {
   text-align: center;
 }
 
+pinst {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: #085a75;
+  font-size: 20px;
+  text-align: center;
+}
+
 .form-default {
   margin-left: auto;
   margin-right: auto;
