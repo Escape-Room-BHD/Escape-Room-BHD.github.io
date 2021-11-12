@@ -1,5 +1,5 @@
 body {
-  background-color: #1b1b1b;
+  background-color: #ffffff;
 }
 
 h1 {
@@ -10,7 +10,7 @@ h1 {
 }
 p {
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
-  color: white;
+  color: #338591;
   font-size: 20px;
   text-align: center;
 }
@@ -30,7 +30,7 @@ p {
 
 .button1 {
   margin-top: 15px;
-  background-color: #4caf50;
+  background-color: #4ca2af;
   color: white;
   font-size: 24px;
   padding: 12px 28px;
@@ -41,7 +41,7 @@ p {
 }
 .button1:hover {
   transition: background-color 0.35s ease-in-out;
-  background-color: #306f32;
+  background-color: #4ca2af;
 }
 
 /*.button1:hover{
