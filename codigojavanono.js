@@ -12,7 +12,7 @@ window.onload = function () {
         var textInput = e.target.elements[0]
         if (textInput.value === NONOGRAMSANSWER) {
             alert("Correct")
-            window.location.href = "Nonograms.html";
+            window.location.href = "hemispheres.html";
         }
         else alert("wrong hehe")
     }
