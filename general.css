@@ -19,8 +19,9 @@ p {
 p1 {
   font-family: "Lato", sans-serif;
   color: #338591;
+  margin: auto;
+  font-size: 25px;
   text-align: center;
-  font-size: 20px;
 }
 
 pinst {
