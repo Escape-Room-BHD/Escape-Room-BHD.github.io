@@ -56,10 +56,24 @@ pinst {
   text-align: center;
   cursor: pointer;
 }
+.button2 {
+  margin-top: 15px;
+  background-color: #085a75;
+  color: black;
+  font-size: 24px;
+  padding: 12px 28px;
+  border-radius: 8px;
+  transition-duration: 0.4s;
+  text-align: center;
+  cursor: pointer;
+}
 .button1:hover {
   transition: background-color 0.35s ease-in-out;
   background-color: #4ca2af;
 }
+.button2:hover {
+  transition: background-color 0.35s ease-in-out;
+  background-color: #085a75;
 
 /*.button1:hover{
   background-color: white;
