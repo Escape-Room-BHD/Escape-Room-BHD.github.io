@@ -12,13 +12,21 @@ p {
   font-family: "Lato", sans-serif;
   color: #338591;
   font-size: 20px;
+  margin: 60px;
   text-align: justify;
+}
+p1 {
+  font-family: "Lato", sans-serif;
+  color: #338591;
+  font-size: 20px;
+  text-align: center;
 }
 
 pinst {
   font-family: "Lato", sans-serif;
   color: #085a75;
   font-size: 20px;
+  margin: 60px;
   text-align: justify;
 }
 
