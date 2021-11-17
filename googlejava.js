@@ -2,9 +2,9 @@ window.onload = function () {
 
     var GOOGLEANSWER = "328069";
 
-    var googletest = document.getElementById("google-test");
+    var Googletest = document.getElementById("google-test");
 
-    Nonogramtest.addEventListener('submit', checkTestAnswer, false);
+    Googletest.addEventListener('submit', checkTestAnswer, false);
 
     function checkTestAnswer(e) {
         e.preventDefault();
